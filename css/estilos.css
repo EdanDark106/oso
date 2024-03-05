@@ -1,0 +1,124 @@
+.oso {
+    position: relative;
+    width: 200px;
+    height: 200px;
+    }
+    
+    .cabeza {
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    width: 100px;
+    height: 100px;
+    background-color: rgb(139, 180, 26);
+    border-radius: 50%;
+    }
+    
+    .cuerpo {
+    position: absolute;
+    top: 150px;
+    left: 50px;
+    width: 150px;
+    height: 150px;
+    background-color: brown;
+    border-radius: 50px;
+    }
+
+    .boca {
+        position: absolute;
+        top: 110px;
+        left: 90px;
+        width: 20px;
+        height: 20px;
+        background-color: rgb(66, 218, 129);
+        border-radius: 50%;
+    }
+    
+    .orejas {
+    position: absolute;
+    top: 30px;
+    left: 30px;
+    width: 40px;
+    height: 70px;
+    background-color: rgb(155, 46, 206);
+    border-radius: 50%;
+    }
+
+    .orejas2 {
+        position: absolute;
+        top: 30px;
+        left: 125px;
+        width: 40px;
+        height: 70px;
+        background-color: rgb(144, 15, 196);
+        border-radius: 50%;
+        }
+    
+    .ojos {
+    position: absolute;
+    top: 70px;
+    left: 70px;
+    width: 20px;
+    height: 20px;
+    background-color: black;
+    border-radius: 50%;
+    }
+
+    .ojos2{
+    position: absolute;
+    top: 70px;
+    left: 110px;
+    width: 20px;
+    height: 20px;
+    background-color: rgb(147, 218, 35);
+    border-radius: 50%;
+    }
+
+    .nariz {
+    position: absolute;
+    top: 90px;
+    left: 95px;
+    width: 10px;
+    height: 10px;
+    background-color: rgb(204, 224, 21);
+    border-radius: 50%;
+    }
+    .brazo{
+        position: absolute;
+        top: 150px;
+        left: 180px;
+        width: 80px;
+        height: 80px;
+        background-color: rgb(204, 135, 32);
+        border-radius: 50%;
+    }
+
+    .brazo2{
+        position: absolute;
+        top: 150px;
+        left: 180px;
+        width: 20px;
+        height: 30px;
+        background-color: rgb(168, 118, 42);
+        border-radius: 50%;
+    }
+
+    .brazo3{
+        position: absolute;
+        top: 150px;
+        left: 180px;
+        width: 45px;
+        height: 40px;
+        background-color: rgb(204, 135, 32);
+        border-radius: 50%;
+    }
+
+    .brazo4{
+        position: absolute;
+        top: 150px;
+        left: 180px;
+        width: 80px;
+        height: 80px;
+        background-color: rgb(204, 135, 32);
+        border-radius: 50%;
+    }
